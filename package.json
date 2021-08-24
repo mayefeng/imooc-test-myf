@@ -1,0 +1,21 @@
+{
+  "name": "imooc-test-myf",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "imooc-test-myf": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "imooc-test-myf-lib": "^1.0.0",
+    "npminstall": "^4.11.0",
+    "user-home": "^3.0.0"
+  }
+}
