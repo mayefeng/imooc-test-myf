@@ -15,6 +15,7 @@
   "dependencies": {
     "commander": "^8.1.0",
     "imooc-test-myf-lib": "^1.0.0",
+    "inquirer": "^8.1.2",
     "npminstall": "^4.11.0",
     "user-home": "^3.0.0"
   }
