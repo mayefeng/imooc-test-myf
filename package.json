@@ -13,7 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cli-spinner": "^0.2.10",
     "commander": "^8.1.0",
+    "ejs": "^3.1.6",
     "imooc-test-myf-lib": "^1.0.0",
     "inquirer": "^8.1.2",
     "npminstall": "^4.11.0",
